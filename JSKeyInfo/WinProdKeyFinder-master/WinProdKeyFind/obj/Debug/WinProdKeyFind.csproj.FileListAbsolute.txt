@@ -1,0 +1,9 @@
+C:\Users\jonny\Desktop\WinProdKeyFinder-master\WinProdKeyFind\bin\Debug\JSKeyInfo.exe.config
+C:\Users\jonny\Desktop\WinProdKeyFinder-master\WinProdKeyFind\bin\Debug\JSKeyInfo.exe
+C:\Users\jonny\Desktop\WinProdKeyFinder-master\WinProdKeyFind\bin\Debug\JSKeyInfo.pdb
+C:\Users\jonny\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\WinProdKeyFind.Form2.resources
+C:\Users\jonny\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\WinProdKeyFind.MainForm.resources
+C:\Users\jonny\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\JSKeyInfo.Properties.Resources.resources
+C:\Users\jonny\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\WinProdKeyFind.csproj.GenerateResource.Cache
+C:\Users\jonny\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\JSKeyInfo.exe
+C:\Users\jonny\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\JSKeyInfo.pdb
